@@ -1,1 +1,1 @@
-# M1_Automation_ATM-banking
+# M1_Automation_ATM-banking[![Unit Testing - Unity](https://github.com/Renganathan-S/M1_Automation_ATM-banking/actions/workflows/unity.yml/badge.svg)](https://github.com/Renganathan-S/M1_Automation_ATM-banking/actions/workflows/unity.yml)
